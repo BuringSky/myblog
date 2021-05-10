@@ -1,0 +1,9 @@
+Django
+django-ckeditor
+django-js-asset
+django-model-utils
+django-notifications-hq
+jsonfield
+mysqlclient
+Pillow
+pytz
